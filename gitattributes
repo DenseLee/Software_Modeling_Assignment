@@ -1,0 +1,10 @@
+* text=auto
+*.py text eol=lf
+*.puml text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.gitignore text eol=lf
+*.zip binary
+*.pkl binary
+*.pt binary
+*.pth binary
